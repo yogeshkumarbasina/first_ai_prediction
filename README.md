@@ -67,7 +67,7 @@ first-ai-prediction/
 ## 1 Clone Repository
 
 ```bash
-git clone https://github.com/YOUR/yogeshkumarbasina/first-ai-prediction.git
+git clone https://github.com/yogeshkumarbasina/first-ai-prediction.git
 ```
 
 ---
